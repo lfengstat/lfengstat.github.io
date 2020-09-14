@@ -3,10 +3,21 @@
 
 
 ~~~
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8ba2f20d7f8646969bfbb2a4bf46d6098563abb2
 - *Feng, L.* (2020+). \"\Projected Robust PCA with Application to Smooth Image Recovery
 "\. \[[https://arxiv.org/abs/2009.05478 arXiv]\].
 - *Feng, L.*\*, Bi, X.\* and Zhang, H. (2020+). \"\Brain Regions Identified as Being Associated with Verbal Reasoning through the Use of Imaging Regression via Internal Variation."\, Journal of American Statistical Association, \[[https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1766468 link]\].(\* indicates contribute equally.)
 - *Feng, L.* and Zhang, C.-H. (2019). \"\Sorted Concave Penalized Regression"\, Annals of Statistics, 47/6. 3069-3098. doi:10.1214/18-AOS1759. \[[https://projecteuclid.org/euclid.aos/1572487384]\]\[[http://arxiv.org/abs/1712.09941 arXiv version]\].
+<<<<<<< HEAD
+=======
+=======
+- *Feng, L.*\*, Bi, X.\* and Zhang, H. (2020+). \"\Brain Regions Identified as Being Associated with Verbal Reasoning through the Use of Imaging Regression via Internal Variation."\, Journal of American Statistical Association, forthcoming. (\* indicates contribute equally.)
+- *Feng, L.* and Zhang, C.-H. (2019). \"\Sorted Concave Penalized Regression"\, Annals of Statistics, 47/6. 3069-3098. \[[https://projecteuclid.org/euclid.aos/1572487384 Journal version]\]\[[http://arxiv.org/abs/1712.09941 arXiv version]\].
+>>>>>>> ae64bdb25a4e8ced6493a4a679bc92c73faf592a
+>>>>>>> 8ba2f20d7f8646969bfbb2a4bf46d6098563abb2
 - Bi, X., *Feng, L.*, Wang, S., Lin, Z., Li, T., Zhao, B., Zhu, H. and Zhang, H. (2019).\"\ Common Genetic Variants Influence Human Cortical Brain Regions and Risk of Schizophrenia"\, Genetic Epidemiology, 1-11. \[[https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22203 link]\].
 - *Feng, L.* and Dicker, L.H. (2018). \"\Approximate Nonparametric Maximum LikelihoodInference for Mixture Models via Convex Optimization"\,  Computational Statistics& Data Analysis, 122, 80-91. \[[https://www.sciencedirect.com/science/article/pii/S0167947318300070 link]\].
 - *Feng, L.*, Ma, R. and Dicker, L.H. (2017). \"\Nonparametric Maximum LikelihoodApproximate Message Passing"\, Information Sciences and Systems (CISS), 2017 51st Annual Conference on (pp. 1-6), IEEE. \[[http://ieeexplore.ieee.org/document/7926084 link]\].
