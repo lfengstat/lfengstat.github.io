@@ -3,12 +3,20 @@
 
 ~~~
 == At CityU
+<<<<<<< HEAD
 - SDSC 6001--Statistical Machine Learning, Spring 2020
+=======
+- SDSC 6001--Statistical Machine Learning II, Spring 2020
+>>>>>>> ae64bdb25a4e8ced6493a4a679bc92c73faf592a
 
 
 == At Rutgers
 - STAT 580--Basic Probability, Summer 2017
+<<<<<<< HEAD
 - STAT 586--Interpretation of Data-I, Summer 2016
+=======
+- STAT 586--Interpretation of Data I, Summer 2016
+>>>>>>> ae64bdb25a4e8ced6493a4a679bc92c73faf592a
 
 
 
