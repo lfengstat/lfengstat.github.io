@@ -3,10 +3,13 @@
 
 
 ~~~
-- *Feng, L.* (2020+). \"\Projected Robust PCA with Application to Smooth Image Recovery
-"\. \[[https://arxiv.org/abs/2009.05478 arXiv]\].
-- *Feng, L.*, Bi, X. and Zhang, H. (2020). \"\Brain Regions Identified as Being Associated with Verbal Reasoning through the Use of Imaging Regression via Internal Variation."\, Journal of American Statistical Association, 116(533):144-158 \[[https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1766468 link]\].
-- *Feng, L.* and Zhang, C.-H. (2019). \"\Sorted Concave Penalized Regression"\, Annals of Statistics, 47(6): 3069-3098. \[[https://projecteuclid.org/euclid.aos/1572487384 Journal link]\]\[[http://arxiv.org/abs/1712.09941 arXiv version]\].
+- *Feng, L.* and Wang, J. (2020+). \"\Projected Robust PCA with Application to Smooth Image Recovery
+"\, under review, \[[https://arxiv.org/abs/2009.05478 arXiv]\].
+- Bi, X.\*, *Feng, L.*\*, Li, C\*. and Zhang, H. (2020+).\"\ Modeling Pregnancy Outcomes through Sequentially Nested Regression Models"\, under minor revision, Journal of American Statistical Association (JASA). 
+- *Feng, L.*, Bi, X. and Zhang, H. (2020). \"\Brain Regions Identified as Being Associated with Verbal Reasoning through the Use of Imaging Regression via Internal Variation."\, Journal of American Statistical Association (JASA), 116(533):144-158 \[[https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1766468 link]\].
+- *Feng, L.* and Zhang, C.-H. (2019). \"\Sorted Concave Penalized Regression"\, Annals of Statistics (AoS), 47(6): 3069-3098. \[[https://projecteuclid.org/euclid.aos/1572487384 Journal link]\]\[[http://arxiv.org/abs/1712.09941 arXiv version]\].
 - Bi, X., *Feng, L.*, Wang, S., Lin, Z., Li, T., Zhao, B., Zhu, H. and Zhang, H. (2019).\"\ Common Genetic Variants Influence Human Cortical Brain Regions and Risk of Schizophrenia"\, Genetic Epidemiology, 1-11. \[[https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22203 link]\].
-- *Feng, L.* and Dicker, L.H. (2018). \"\Approximate Nonparametric Maximum LikelihoodInference for Mixture Models via Convex Optimization"\,  Computational Statistics& Data Analysis, 122, 80-91. \[[https://www.sciencedirect.com/science/article/pii/S0167947318300070 link]\].
+- *Feng, L.* and Dicker, L.H. (2018). \"\Approximate Nonparametric Maximum LikelihoodInference for Mixture Models via Convex Optimization"\,  Computational Statistics& Data Analysis (CSDA), 122, 80-91. \[[https://www.sciencedirect.com/science/article/pii/S0167947318300070 link]\].
 - *Feng, L.*, Ma, R. and Dicker, L.H. (2017). \"\Nonparametric Maximum LikelihoodApproximate Message Passing"\, Information Sciences and Systems (CISS), 2017 51st Annual Conference on (pp. 1-6), IEEE. \[[http://ieeexplore.ieee.org/document/7926084 link]\].
+
+\* stands for alphabetical order.
