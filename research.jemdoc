@@ -1,14 +1,14 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
 == Publications and Preprints
 
-
+\* stands for alphabetical authorship. \n \# stands for PhD students under my supervision.
 ~~~
 
 - Bi, X.\*, *Feng, L.*\*, Li, C\*. and Zhang, H. (2020+).\"\ Modeling Pregnancy Outcomes through Sequentially Nested Regression Models"\, under minor revision, Journal of American Statistical Association (JASA). 
 - *Feng, L.* and Wang, J. (2020+). \"\Projected Robust PCA with Application to Smooth Image Recovery
 "\, under revision and resubmission at Journal of Machine Learning Research (JMLR), \[[https://arxiv.org/abs/2009.05478 arXiv]\].
 
-- *Wu, S.* and *Feng, L.*. (2020+). \"\SKPD: A General Framework of Signal Region Detection in Image Regression
+- *Wu, S.\#* and *Feng, L.*. (2020+). \"\SKPD: A General Framework of Signal Region Detection in Image Regression
 "\, revision submitted to Journal of Royal Statistical Society, series B (JRSSB).
 
 - *Feng, L.*, Bi, X. and Zhang, H. (2020). \"\Brain Regions Identified as Being Associated with Verbal Reasoning through the Use of Imaging Regression via Internal Variation."\, Journal of American Statistical Association (JASA), 116(533):144-158 \[[https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1766468 link]\].
@@ -17,4 +17,4 @@
 - *Feng, L.* and Dicker, L.H. (2018). \"\Approximate Nonparametric Maximum LikelihoodInference for Mixture Models via Convex Optimization"\,  Computational Statistics& Data Analysis (CSDA), 122, 80-91. \[[https://www.sciencedirect.com/science/article/pii/S0167947318300070 link]\].
 - *Feng, L.*, Ma, R. and Dicker, L.H. (2017). \"\Nonparametric Maximum LikelihoodApproximate Message Passing"\, Information Sciences and Systems (CISS), 2017 51st Annual Conference on (pp. 1-6), IEEE. \[[http://ieeexplore.ieee.org/document/7926084 link]\].
 
-\* stands for alphabetical order.
+
