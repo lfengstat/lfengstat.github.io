@@ -10,7 +10,7 @@ Email: longfeng AT cityu DOT edu DOT hk
 ~~~
 
 == About me
-I am an Assistant Professor in the School of Data Science, City University of Hong Kong. Before joining CityU, I was a Postdoctoral Associate in the Department of Biostatistics at Yale University, supervised by Prof. Heping Zhang.  My current research interests focus on imaging data analysis, including image regression, image clustering, image denoising, region detection in image data, etc. I obtained my Ph.D in Statistics from Rutgers University, advised by Profs. Cun-Hui Zhang and Lee Dicker. 
+I am an Assistant Professor in the School of Data Science, City University of Hong Kong. Before joining CityU, I was a Postdoctoral Associate in the Department of Biostatistics at Yale University, supervised by Prof. Heping Zhang.  My current research interests focus on image data analysis, convolutional neural networks, high-dimensional statistics, machine learning, etc. I obtained my Ph.D in Statistics from Rutgers University, advised by Profs. Cun-Hui Zhang and Lee Dicker. 
 
 == Education
 - 2017, Ph.D. in Statistics, Rutgers University  
@@ -19,8 +19,9 @@ I am an Assistant Professor in the School of Data Science, City University of Ho
 
 == Research
 My research interests include 
-- Imaging data analysis, image regression, image clustering, image denoising
-- High-dimensional data analysis, variable selection
+- Image data analysis
+- Deep neural networks
+- High-dimensional data analysis
 
 
 
